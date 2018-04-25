@@ -64,12 +64,12 @@ window.onload = function () {
     game.stage.backgroundColor = '#5db1ad';
     
     //Load images
-    game.load.image('platform', 'platform_1.png');
+    game.load.image('platform', 'img/platform_1.png');
     
     //Load spritesheets
-    game.load.spritesheet('player', 'chalkers.png', 48, 62);
-    game.load.spritesheet('coin', 'coin.png', 36, 44);
-    game.load.spritesheet('badge', 'badge.png', 42, 54);
+    game.load.spritesheet('player', 'img/chalkers.png', 48, 62);
+    game.load.spritesheet('coin', 'img/coin.png', 36, 44);
+    game.load.spritesheet('badge', 'img/badge.png', 42, 54);
   }
 
   // initial game set up
