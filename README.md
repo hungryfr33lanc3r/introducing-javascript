@@ -1,7 +1,8 @@
-# **Treehouse Javascript Course**
+# **Treehouse Javascript Stack**
 
 ## Intro to JavaScript
 
 ### 01_welcome
 
-First part of the Full-Stack Javascript Track on Treehouse
+
+  **First course in the Full Stack JavaScript Track**
